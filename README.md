@@ -19,11 +19,7 @@ Event management is a process of organizing a professional and focused event, fo
 
 # Azure Technologies used :
 
-1.Static Web Apps(for deployment of the website).
-
-2.Azure Storage Accounts.
-
-3.Container
+1.Web Apps
 
 # Web Technologies used :
 
@@ -47,10 +43,16 @@ Vs code
 
 4.The project was deployed using the github pages and tested it.
 
-5.After that I logged in to my azure account and created azure storage account.
+5.After that I logged into my azure account and open a create resource and click on web app to create a web app service.
 
-6.After that I have created a container with blob storage and uploaded my project code into the container.
+6.After completing of deployment process click on go to resource.
 
-7.After that I started my static web sevice and deployed my website on azure static web services.
+7.Then go to deployment centre and select code from your preffered source.
 
-8.Finally my website was deployed on the azure web services and ready to use...
+8.select your authorize github account,and select your organization,repository,branch.
+
+9.Then after performing some github actions if any error occur ,then build and deploy where the action occured.
+
+10.If deployment status is success then go to overview and start your web app service and  click on browse then the output will be displayed.
+
+
