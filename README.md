@@ -4,8 +4,6 @@ Event Management System using Flask and Sqlite3
 
 This is my FRT Internship project....
 
-azure link:https://prathyusha1.z30.web.core.windows.net/
-
 # Project Statement:
 
 Event management is the application of project management to the creation and development of small and/or large-scale personal or corporate events such as festivals, conferences, ceremonies, weddings, formal parties, concerts, or conventions.
